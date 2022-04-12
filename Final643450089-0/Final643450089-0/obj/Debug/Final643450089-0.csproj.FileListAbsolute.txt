@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Final643450089-0\Final643450089-0\Final643450089-0\obj\Debug\Final643450089-0.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Final643450089-0\Final643450089-0\Final643450089-0\obj\Debug\Final643450089-0.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Final643450089-0\Final643450089-0\Final643450089-0\obj\Debug\Final643450089_0.Form1.resources
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Final643450089-0\Final643450089-0\Final643450089-0\obj\Debug\Final643450089_0.Properties.Resources.resources
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Final643450089-0\Final643450089-0\Final643450089-0\obj\Debug\Final643450089-0.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Final643450089-0\Final643450089-0\Final643450089-0\obj\Debug\Final643450089-0.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Final643450089-0\Final643450089-0\Final643450089-0\bin\Debug\Final643450089-0.exe.config
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Final643450089-0\Final643450089-0\Final643450089-0\bin\Debug\Final643450089-0.exe
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Final643450089-0\Final643450089-0\Final643450089-0\bin\Debug\Final643450089-0.pdb
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Final643450089-0\Final643450089-0\Final643450089-0\obj\Debug\Final643450089-0.exe
+C:\Users\HP\OneDrive\เอกสาร\GitHub\Final643450089-0\Final643450089-0\Final643450089-0\obj\Debug\Final643450089-0.pdb
